@@ -1,0 +1,2 @@
+# INFONIC_2026_PYTHON
+Repository of INFONIC HMIT UIN Sunan Kalijaga 2026
